@@ -1,5 +1,5 @@
-# 💫 About Me:
-### 👋 About Me<br><br>🎓  pursuing my B.Sc. in Software Engineering<br><br>🔭 Academic projects and exploring Data Science applications.<br><br>👯  Beginner-friendly Data Science, Machine Learning, and Web Development projects.<br><br>🤝 Machine Learning, data analysis, and building real-world projects.<br><br>🌱 Python, Data Science, Machine Learning, and React.js.<br><br>💬 HTML, CSS, JavaScript, Python basics, and UI/UX design.<br><br>⚡ I love learning new technologies, reading books, and turning creative ideas into projects!
+# About Me:
+### 👋 About Me<br><br>🎓  I'm currently pursuing my B.Sc. in Software Engineering<br><br>🔭 I'm currently working on: Academic projects and exploring Data Science applications.<br><br>👯   I'm looking for help with: Machine Learning, data analysis, and building real-world projects.<br><br>🤝 Machine Learning, data analysis, and building real-world projects.<br><br>🌱 I'm currently learning: Python, Data Science and Machine Learning<br><br>⚡ Fun fact: I love learning new technologies, reading books, and turning creative ideas into projects!
 
 
 ## 🌐 Socials:
